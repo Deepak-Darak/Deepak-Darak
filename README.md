@@ -7,7 +7,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-darak&show_icons=true&locale=en&layout=compact" alt="deepak-darak" />
 <img align = "right" width="350px"
-src="https://deepak-darak.vercel.app/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg" alt="deepak-darak" />
+src="https://camo.githubusercontent.com/5596f54798fa97bd793a9cd4e5f74b082742e3871c57d9d1a01a032ddc1c847e/68747470733a2f2f656e6163746573657276696365732e636f6d2f77702d636f6e74656e742f7468656d65732f7477656e74797477656e74792f696d616765732f686972652d646576656c6f7065722f616e696d6174696f6e5f3530305f6c347a63396a35672e676966" alt="deepak-darak" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-darak&show_icons=true&locale=en" alt="deepak-darak" /></p>
